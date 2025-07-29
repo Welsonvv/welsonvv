@@ -41,10 +41,14 @@ Tenho forte vivência em ambientes corporativos com **metodologias ágeis (Scrum
 - Processos de ETL e modelagem de dados  
 - Desenvolvimento e monitoramento de KPIs  
 
-**📍 Grupo Multi** – *Tech Lead & Supervisor BI*  
-*(Fev/2023 - Abr/2024)*  
-- Liderança técnica em projetos de engenharia de dados  
-- Construção e automatização de relatórios  
+**📍 Grupo Multi** – *Analista de Dados Sênior → Supervisor de BI → Tech Lead*  
+*(Fev/2021 – Abr/2024)*  
+- Atuação progressiva em funções técnicas e estratégicas, com foco em dados e liderança de equipes.  
+- Liderança de projetos de engenharia de dados com foco em escalabilidade, performance e governança.  
+- Estruturação e automação de processos de ETL e relatórios gerenciais baseados em KPIs.  
+- Implementação de soluções de BI para otimização da performance e suporte à tomada de decisão.  
+- Mentoria técnica de times, padronização de boas práticas e aplicação de metodologias ágeis (Scrum/Kanban).
+ 
 
 **📍 Experiências anteriores em:**  
 Orbitall, Teleperformance, Atento, Veganet  
@@ -58,7 +62,8 @@ Orbitall, Teleperformance, Atento, Veganet
 ### 🎯 Principais Competências
 
 `Engenharia de Dados` • `Power BI` • `Python` • `SQL` • `ETL - Pentaho`  
-`Liderança de Equipes` • `Scrum/Kanban` • `Excel/VBA` • `KPIs e DataViz`
+`Liderança de Equipes` • `Scrum/Kanban` • `Excel/VBA` • `KPIs e DataViz` 
+`metodologias ágeis`
 
 ---
 
@@ -84,10 +89,11 @@ Orbitall, Teleperformance, Atento, Veganet
 
 ### 🎓 Formação Acadêmica
 
-📌 **Pós-graduação em Engenharia de Dados** – Anhanguera (2023)  
-📌 **Pós-graduação em Engenharia de Software** – Anhanguera (2023)  
-📌 **Análise e Desenvolvimento de Sistemas** – UNINOVE (2022)  
-📌 **Técnico em Informática** – Centro Paula Souza (2012)
+📌 **Pós-graduação em Engenharia de Dados**  
+📌 **Pós-graduação em Engenharia de Software**  
+📌 **Graduação em Análise e Desenvolvimento de Sistemas**  
+📌 **Curso Técnico em Informática**
+
 
 ---
 
