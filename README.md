@@ -2,13 +2,9 @@
   👨‍💻 Welson Viana
 </h1>
 
-
 <h3 align="center">
-  Analista de Dados Sênior | Pentaho • Python • SQL • Power BI
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Analista+de+Dados+S%C3%AAnior;Tech+Leader;Pentaho+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
 </h3>
-<h4 align="center">
-  Data Driven • Tech Leader • ETL Expert
-</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welsonviana/" target="_blank">
@@ -18,6 +14,7 @@
     <img src="https://img.shields.io/badge/E--mail-welsonviana%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
