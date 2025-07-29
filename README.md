@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Welson Viana</h1>
+<h3 align="center">Analista de Dados Sênior | Pentaho • Python • SQL • Power BI</h3>
 
-<!--
-**Welsonvv/welsonvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/welsonviana/">LinkedIn</a> •
+  <a href="mailto:welsonviana@gmail.com">E-mail</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 Sobre Mim
+
+Sou um profissional com mais de 10 anos de experiência na área de análise de dados, atuando com:
+- Levantamento de requisitos;
+- Modelagem de dados;
+- Desenvolvimento de dashboards;
+- ETL com **Pentaho**;
+- Visualizações com **Power BI**;
+- Integrações com **SQL, Python e APIs**.
+
+Tenho forte vivência em ambientes corporativos com **metodologias ágeis (Scrum/Kanban)**, planejamento estratégico e liderança de equipes.
+
+---
+
+### 💼 Experiência Profissional
+
+**📍 Vivo Vita** – *Analista de Dados Sênior*  
+*(Abril/2024 - Atual)*  
+- Construção de dashboards interativos  
+- Processos de ETL e modelagem de dados  
+- Desenvolvimento e monitoramento de KPIs  
+
+**📍 Grupo Multi** – *Tech Lead & Supervisor BI*  
+*(Fev/2023 - Abr/2024)*  
+- Liderança técnica em projetos de engenharia de dados  
+- Construção e automatização de relatórios  
+
+**📍 Experiências anteriores em:**  
+Orbitall, Teleperformance, Atento, Veganet  
+- BI/MIS  
+- Power BI e Excel  
+- ETL com Pentaho  
+- Automação com VBA
+
+---
+
+### 🎯 Principais Competências
+
+`Engenharia de Dados` • `Power BI` • `Python` • `SQL` • `ETL - Pentaho`  
+`Liderança de Equipes` • `Scrum/Kanban` • `Excel/VBA` • `KPIs e DataViz`
+
+---
+
+### 🔧 Ferramentas & Tecnologias
+
+#### 🧠 Análise e BI  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pentaho](https://img.shields.io/badge/-Pentaho-FF6600?style=flat)
+
+#### 🗄️ Bancos de Dados  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### 🧰 Ferramentas  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-BB92AC?style=flat)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+### 🎓 Formação Acadêmica
+
+📌 **Pós-graduação em Engenharia de Dados** – Anhanguera (2023)  
+📌 **Pós-graduação em Engenharia de Software** – Anhanguera (2023)  
+📌 **Análise e Desenvolvimento de Sistemas** – UNINOVE (2022)  
+📌 **Técnico em Informática** – Centro Paula Souza (2012)
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: [welsonviana@yahoo.com.br](mailto:welsonviana@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/welsonviana](https://www.linkedin.com/in/welsonviana/)  
+- 📍 São Paulo - SP - Brasil  
+
+---
+
+🧠 *Transformando dados em valor para o negócio com inteligência, agilidade e visão estratégica.*
