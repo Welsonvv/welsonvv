@@ -1,9 +1,18 @@
-<h1 align="center">👨‍💻 Welson Viana</h1>
-<h3 align="center">Analista de Dados Sênior | Pentaho • Python • SQL • Power BI</h3>
+<h1 align="center">
+  👨‍💻 Welson Viana
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Analista+de+Dados+Sênior;Pentaho+%7C+Python+%7C+SQL+%7C+Power+BI;+Data+Driven+%7C+Tech+Leader+%7C+ETL+Expert" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/welsonviana/">LinkedIn</a> •
-  <a href="mailto:welsonviana@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/welsonviana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:welsonviana@yahoo.com.br">
+    <img src="https://img.shields.io/badge/E--mail-welsonviana%40yahoo.com.br-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
