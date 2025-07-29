@@ -85,6 +85,14 @@ Orbitall, Teleperformance, Atento, Veganet
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
+#### 🤖 Inteligência Artificial  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-1C1E20?style=flat&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Python AI](https://img.shields.io/badge/-Python%20AI-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+
 ---
 
 ### 🎓 Formação Acadêmica
