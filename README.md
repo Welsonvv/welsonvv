@@ -93,7 +93,7 @@ Orbitall, Teleperformance, Atento, Veganet
 
 ### 📫 Contato
 
-- 📧 E-mail: [welsonviana@yahoo.com.br](mailto:welsonviana@gmail.com)  
+- 📧 E-mail: [welsonviana@gmail.com](mailto:welsonviana@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/welsonviana](https://www.linkedin.com/in/welsonviana/)  
 - 📍 São Paulo - SP - Brasil  
 
